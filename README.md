@@ -1,4 +1,4 @@
-# Wuxia Cultivation Idle Game
+# Cultivation Chronicles
 Creator: Ronald C. Pancho
 
 ## About the Game
