@@ -5,11 +5,11 @@ Creator: Ronald C. Pancho
 
 Cultivation Chronicles delivers a strategic idle experience set in a mystical world where spiritual energy (Qi) governs all.
 
-You’ll create your own cultivator, align with a sect, and ascend through powerful cultivation realms—unlocking martial arts, exploring distant lands, engaging in battles, and managing your own growing sect.
+You’ll create your own cultivator, align with a sect, and ascend through powerful cultivation realms unlocking martial arts, exploring distant lands, engaging in battles, and managing your own growing sect.
 
 ## Features
 
-culty scaling- Create your own cultivator with custom stats and sect affiliation.
+- culty scaling- Create your own cultivator with custom stats and sect affiliation.
 - Fight enemies in real-time combat and earn valuable loot.
 - Meditate to generate Qi and break through cultivation stages.
 - Explore new zones and uncover hidden locations on the map.
