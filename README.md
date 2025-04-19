@@ -1,68 +1,25 @@
 # Wuxia Cultivation Idle Game
-
 Creator: Ronald C. Pancho
 
-An immersive idle game exploring wuxia cultivation themes, offering players a strategic journey through mystical realms of energy manipulation and personal growth.
+## About the Game
+
+Cultivation Chronicles delivers a strategic idle experience set in a mystical world where spiritual energy (Qi) governs all.
+
+You’ll create your own cultivator, align with a sect, and ascend through powerful cultivation realms—unlocking martial arts, exploring distant lands, engaging in battles, and managing your own growing sect.
 
 ## Features
 
-- Cultivation progression through multiple realms (Qi Condensation, Foundation Establishment, etc.)
-- Combat system with various enemies and locations
-- Herb gathering and utilization during combat
-- Level-gated locations with progressive difficulty scaling
-- Character attributes and skills development
-
-## Deployment to Vercel
-
-### Prerequisites
-
-1. Create a [Vercel](https://vercel.com) account
-2. Set up a PostgreSQL database (recommended: [Neon](https://neon.tech) or [Supabase](https://supabase.com))
-3. Install the [Vercel CLI](https://vercel.com/docs/cli): `npm i -g vercel`
-
-### Steps to Deploy
-
-1. **Prepare Environment Variables**
-
-   Create a `.env` file with the following variables (see `.env.example`):
-   ```
-   DATABASE_URL=your-postgres-connection-string
-   SESSION_SECRET=your-session-secret
-   NODE_ENV=production
-   ```
-
-2. **Login to Vercel CLI**
-
-   ```bash
-   vercel login
-   ```
-
-3. **Deploy to Vercel**
-
-   ```bash
-   vercel
-   ```
-
-4. **Set Environment Variables on Vercel**
-
-   In the Vercel dashboard, go to your project settings and add the environment variables listed in your `.env` file.
-
-5. **Run Database Migrations**
-
-   ```bash
-   npx drizzle-kit push
-   ```
-
-## Development
-
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Start the development server: `npm run dev`
-
-## Tech Stack
-
-- Frontend: React, TypeScript, Tailwind CSS, Shadcn UI
-- Backend: Express.js, Node.js
-- Database: PostgreSQL with Drizzle ORM
-- State Management: Zustand
-- Routing: Wouter
+culty scaling- Create your own cultivator with custom stats and sect affiliation.
+- Fight enemies in real-time combat and earn valuable loot.
+- Meditate to generate Qi and break through cultivation stages.
+- Explore new zones and uncover hidden locations on the map.
+- Learn and enhance martial techniques to strengthen your skills.
+- Equip powerful gear, use rare items, and manage your inventory.
+- Establish a sect, manage disciples, and control territories.
+- Engage in sect vs sect battles and expand your influence.
+- Accept quests and earn rewards, reputation, and resources.
+- Climb the PvP rankings in the Sect Battle Arena.
+- Earn achievements and track your cultivation journey.
+- Purchase gear, items, and rare materials through the in-game shop.
+- Interact with NPCs in the Gu City, build relationships, and unlock special shops and gifts.
+- Character attributes and skills.
